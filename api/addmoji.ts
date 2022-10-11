@@ -21,7 +21,7 @@ export default async (req: NowRequest, res: NowResponse) => {
     try {
       await updateReadme(type);
 
-      res.setHeader('Location', 'https://github.com/ffadilaputra');
+      res.setHeader('Location', 'https://github.com/bagasbawazir');
       res.status(302);
       res.json({ message: '↩️'})
     } catch (err) {

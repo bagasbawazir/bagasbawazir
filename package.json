@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:bagasbawazir/bagasbawazir.git",
-  "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
+  "author": "Bawazir Fadhil Mohammad <bawazirfadhil@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@now/node": "^1.7.1",
