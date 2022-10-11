@@ -1,8 +1,8 @@
 {
-  "name": "ffadilaputra-addmoji",
+  "name": "bagasbawazir-addmoji",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:ffadilaputra/ffadilaputra.git",
+  "repository": "git@github.com:bagasbawazir/bagasbawazir.git",
   "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
